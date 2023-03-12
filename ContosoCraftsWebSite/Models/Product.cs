@@ -6,9 +6,7 @@ namespace ContosoCraftsWebSite.Models
 {
 	public class Product
 	{
-		public Product()
-		{
-		}
+	
 		public string Id { get; set; }
 		public string Maker { get; set; }
 
