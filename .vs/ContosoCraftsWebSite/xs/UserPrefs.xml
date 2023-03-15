@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{F4B35FD8-7D6A-4EC1-944B-FB38D4F5BBB4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ContosoCraftsWebSite PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoCraftsWebSite/Components/ProductList.razor">
+    <Files>
+      <File FileName="ContosoCraftsWebSite/Controllers/ProductsController.cs" Line="1" Column="1" />
+      <File FileName="ContosoCraftsWebSite/Models/Product.cs" Line="25" Column="2" />
+      <File FileName="ContosoCraftsWebSite/Services/JsonFileProductService.cs" Line="31" Column="10" />
+      <File FileName="ContosoCraftsWebSite/Program.cs" Line="1" Column="1" />
+      <File FileName="ContosoCraftsWebSite/Startup.cs" Line="51" Column="14" />
+      <File FileName="ContosoCraftsWebSite/Pages/Index.cshtml" Line="15" Column="5" />
+      <File FileName="ContosoCraftsWebSite/Pages/Index.cshtml.cs" Line="15" Column="33" />
+      <File FileName="ContosoCraftsWebSite/Components/ProductList.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContosoCraftsWebSite" expanded="True">
+            <Node name="ContosoCraftsWebSite" expanded="True">
+              <Node name="Components" expanded="True">
+                <Node name="ProductList.razor" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="data" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
